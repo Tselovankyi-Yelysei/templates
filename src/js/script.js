@@ -1,3 +1,5 @@
+import "/src/sass/libs/tailswind.css";
+
 import Swiper from 'swiper';
 import { Navigation, Pagination } from 'swiper/modules';
 
